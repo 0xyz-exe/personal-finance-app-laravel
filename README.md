@@ -4,6 +4,19 @@ Repository: https://github.com/0xyz-exe/personal-finance-app-laravel
 
 A personal finance management, cashflow tracking, and monthly budget control application built with Laravel 13, Blade, Tailwind CSS, Alpine.js, and SQLite.
 
+---
+
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Ikhtisar Keuangan & Arus Kas**<br>Ringkasan total kekayaan bersih (Net Worth), pendapatan vs pengeluaran bulanan, arus kas bersih, saldo dompet terhubung, dan riwayat mutasi | ![Dashboard Ikhtisar Keuangan](docs/screenshots/01-financial-dashboard.png) |
+| **Buku Kas & Riwayat Transaksi**<br>Daftar transaksi mutasi keuangan lengkap dengan fitur pencarian, filter akun dompet, kategori pengeluaran, dan badge indikator kredit/debit | ![Buku Kas & Riwayat Transaksi](docs/screenshots/02-transaction-ledger.png) |
+| **Formulir Pencatatan Transaksi Baru**<br>Form input pencatatan pengeluaran atau pemasukan baru dengan pemilihan dompet sumber dana, kategori pos anggaran, tanggal, dan catatan tambahan | ![Formulir Pencatatan Transaksi](docs/screenshots/03-create-transaction-form.png) |
+| **Manajemen Akun Dompet & Rekening Bank**<br>Pengelolaan berbagai sumber dana (rekening bank operasional, tabungan berbunga tinggi, dan dompet kas tunai) beserta saldo awal | ![Manajemen Akun Dompet](docs/screenshots/04-wallets-management.png) |
+
+---
+
 ## Features
 
 - ✅ **Multi-Account Wallets**: Manage liquid cash, checking bank accounts, savings, and credit cards with real-time balance calculations.
