@@ -42,6 +42,15 @@ All accounts use the password: `password`
 - **categories**: `id`, `user_id`, `name`, `type` (income/expense), `color`, `icon`, `budget_limit`, `timestamps`
 - **transactions**: `id`, `user_id`, `wallet_id`, `category_id`, `type` (income/expense), `amount`, `transaction_date`, `title`, `notes`, `timestamps`
 
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Login Overview
+![Login](docs/screenshots/02_login.png)
+
 ## License
 
 MIT
